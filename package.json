@@ -1,5 +1,5 @@
 {
-  "name": "smorgasbord",
+  "name": "smorgasbord-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,12 +40,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/weraisedup/smorgasbord.git"
+    "url": "git+https://github.com/weraisedup/smorgasbord-app.git"
   },
   "author": "Derek Murphy & Emma Hyde",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/weraisedup/smorgasbord/issues"
+    "url": "https://github.com/weraisedup/smorgasbord-app/issues"
   },
-  "homepage": "https://github.com/weraisedup/smorgasbord#readme"
+  "homepage": "https://github.com/weraisedup/smorgasbord-app#readme"
 }
